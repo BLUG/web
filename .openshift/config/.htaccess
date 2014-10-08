@@ -2,7 +2,7 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
-RewriteRule ^mailinglists[/]? http://mailman.uib.no/listinfo/blug
+RewriteRule ^mailinglists[/]? http://mailman.uib.no/listinfo/blug [L]
 
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
