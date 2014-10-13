@@ -4,7 +4,7 @@ RewriteEngine On
 RewriteBase /
 RewriteRule ^mailinglists[/]? http://mailman.uib.no/listinfo/blug [L]
 
-RewriteRule ^rfc1149/writeup.html /rfc1149/writeup
+RewriteRule ^rfc1149/writeup.html /rfc1149/writeup [R]
 
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
