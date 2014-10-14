@@ -1,0 +1,75 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 12. juni 2014 kl 18 *Merk tidspunkt*
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1], 
+
+   med temaet
+
+   Open Source in Broadcasting
+
+   Ved Kieran Kunhya
+
+   For a variety of reasons broadcasters are not big users of open
+   source - if anything many still have a viewpoint of Open Source
+   that resembles views of the early 1990s. This presentation aims to
+   explain what broadcasters around the world are doing in this area
+   and what some of the difficulties are in an industry reliant on
+   proprietary hardware and software as well as IPR-heavy. In
+   particular it will look into the creation of the Open Broadcast
+   Encoder (OBE), a professional television encoder running on
+   commodity hardware which many Norwegian organisations have played a
+   role in.  Many of the deployments have been firsts for Open Source
+   in broadcasting, not to mention software encoders, silencing many
+   naysayers.
+
+   Kieran has worked on a variety of Open Source projects in
+   multimedia, mainly on x264 and FFmpeg/libav, trying to make them
+   suitable for use in professional environments such as Blu-Ray,
+   television transmission and post-production to broadcaster file
+   interchange. However, the technical issues are only half of the
+   puzzle - he also spends a lot of time trying to explain
+   Broadcasting to Open Source people and Open Source to Broadcasters
+   and has spoken at many events about this. He is the creator of the
+   Open Broadcast Encoder project, which is a fully open source
+   broadcast encoder used to deliver a variety of channels around the
+   world from the most high profile channels to much smaller channels,
+   putting small players (e.g Frikanalen in Norway) on a similar
+   playing field to the big players. He has worked on all the major
+   deployments of OBE.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 20.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Stedet er om ikke annet annonseres spesifikt et egnet
+lokale i Bergen Offentlige Bibliotek. Foreløpig møteplan for de neste
+12 månedene ser slik ut (tema for møtene annonseres etterhvert):
+
+August 	  Torsdag 28. august 2014 kl 19
+September Torsdag 25. september 2014 kl 19
+Oktober	  Torsdag 30. oktober 2014 kl 19
+November  Torsdag 27. november 2014 kl 19
+Januar	  Torsdag 29. januar 2015 kl 19
+Februar	  Torsdag 26. februar 2015 kl 19
+Mars	  Torsdag 26. mars 2015 kl 19
+April	  Torsdag 30. april 2015 kl 19
+Mai	  Torsdag 28. mai 2015 kl 19
+
+Se også BLUGs hjemmeside, <http://blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/epostliste/>.
+
+[1] kartreferanse <http://is.gd/eyWlN> 
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>
+

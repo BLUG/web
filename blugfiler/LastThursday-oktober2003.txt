@@ -1,0 +1,44 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 30. oktober 2003, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ J2EE-utvikling og applikasjonsservere (JBoss), ved Kjetil Sørtun
+
+   Foredraget gir en kort introduksjon til J2EE som utviklingsmiljø
+   med spesiell fokus på JBoss (applikasjonsserver). Et komplett
+   utviklingsmiljø med Eclipse, Tomcat og JBoss blir presentert og
+   forklart. J2EE-plattformen er godt tilpasset Linux. Det vil bli
+   presentert demo applikasjoner kjørende for å understøtte teorien.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det tredje plenumsmøtet i høstsemesteret 2003. Foreløpig 
+møteplan for resten av høstsemesteret ser slik ut:
+
+Lørdag 25. oktober: Installfest (se egen annonsering)
+
+Torsdag 30. oktober: J2EE-utvikling og applikasjonsservere (JBoss), ved Kjetil Sørtun
+
+Torsdag 27. november: Vegard Engen om utskriftssystemet CUPS 
+
+Vi fortsetter altså med møter *siste torsdag i måneden*. Dersom ikke
+annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.

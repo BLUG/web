@@ -1,0 +1,78 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 31. mai 2007  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+OpenStreetmap.org - fribrukskart oppdatert av deg og meg, 
+    ved Petter Reinholdtsen
+
+    Har du noen sinne undret deg på hvorfor et nytt byggefelt ennå
+    ikke har dukket opp på kartene på nett?  Svaret er ganske enkelt.
+    De bruker alle gamle data fra en tredjepart.  OpenStreetmap.org
+    gir deg muligheten til å oppdatere kartet med oppdatert
+    geo-informasjon, og lar alle se resultatet øyeblikkelig.  Uten
+    venting og uten kostbare lisenser, det er bare å laste ned og
+    sette igang.
+
+    Petter Reinholdtsen er en aktiv utvikler av fri programvare og er
+    involert i en rekke prosjekter som Skolelinux, Debian, Classpath,
+    OpenStreetmap.org og glibc.  Han er systemarkitekt i Skolelinux og
+    leder i NUUG, foreningen for interesserte i fri programvare,
+    unix-lignende operativsystemer og åpne standarder.  På dagtid
+    utvikler han driftstjenster for Universitetet i Oslo.
+
+    MERK: Med kunnskapen fra møtet ferskt i minne planlegger vi å
+    vandre, sykle og kjøre rundt i Bergen for å kartlegge og samle så
+    mye data som mulig i løpet av helgen 1. til 3. juni.  De praktiske
+    detaljene avtaler vi i etterkant av møtet - hvis du har mulighet
+    til å være datasamlingspunkt sentralt i Bergen, vil vi gjerne
+    gjøre deg til sentral person den helgen.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det siste BLUG-møtet i vår.  Foreløpig møteplan for høsten
+2007 ser slik ut:
+
+August
+	Torsdag 30. august 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+September
+	Torsdag 27. september 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Oktober
+	Torsdag 25. oktober 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+November
+	Torsdag 29. november 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://www.blug.linux.no/redirect/audpi> 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>
+

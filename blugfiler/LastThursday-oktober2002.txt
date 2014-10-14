@@ -1,0 +1,54 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+-- denne gangen med *to* seanser --
+
+   Torsdag 31. oktober 2002, kl 10.15
+   Auditorium PI, (matematisk institutt) Autogården,
+   Johannes Brunsgate 12, Bergen
+
+   OG
+
+   Torsdag 31. oktober 2002, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtene er gratis og åpne for alle interesserte, med programmet:
+
+~ Skolelinux, ved Knut Yrvin
+
+  Skolelinux-prosjektet arbeider med å lage en IT-løsning for
+  skoleverket, basert utelukkende på fri programvare. Med støtte fra
+  blant annet Forsknings- og undervisningsdepartementet, Universitetet
+  i Oslo og IBM har Skolelinux nå et IT-system for skolebruk som er
+  nær ved å være ferdig til å tas i bruk i stor skala. Prosjektleder
+  Knut Yrvin orienterer om prosjektet og demonstrerer systemet i
+  praktisk bruk.
+  
+Begge møtene er lagt opp til å vare i maksimalt to timer.
+
+For kveldsmøtet legger vi som tidligere opp til at den formelle,
+disiplinerte faglige delen av møtet vil være fullført ca kl 21.00, med
+overgang til mer uformelle aktiviteter og langsom forflytting til
+egnet serveringssted for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det tredje møtet i høstsemesteret 2002. Vi legger opp til at
+det også i høst vil bli møter *siste torsdag i måneden*. Foreløpig
+møteplan for resten av høstsemesteret ser slik ut:
+
+   Torsdag 28. november 2002, kl 19.00 - tema ikke fastsatt
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. 
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+

@@ -1,0 +1,80 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 30. oktober 2014 kl 19
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1],
+
+   med to temaer, 
+
+   Personvern på nett i kjølvannet av Edward Snowden, ved Runa Sandvik
+
+   og
+
+   STARTTLS - Et lite skritt for en mailadmin, et gigantisk steg for personvernet, 
+   ved Per Thorsheim
+
+
+   Personvern på nett i kjølvannet av Edward Snowden
+
+   De fleste har hørt om Edward Snowden og dokumentene han gav til
+   Laura Poitras og Glenn Greenwald i 2013. Media har over lang tid
+   kommet med stadig nye avsløringer om global overvåkning i en massiv
+   skala som ingen hadde forestilt seg. I denne presentasjonen vil
+   Runa fortelle mer om hva det faktisk var som skjedde, hvordan dette
+   påvirker vårt personvern og ikke minst hva vi kan og bør gjøre for
+   å beskytte oss i fremtiden.
+
+
+   Runa A. Sandvik, teknisk rådgiver for Freedom of the Press, USA.
+   (Runa arrangerte cryptoparty med Snowden på Hawaii)
+   Twitter: @runasand
+
+
+   STARTTLS - Et lite skritt for en mailadmin, et gigantisk steg for
+   personvernet 
+
+   RFC3207 er en standard for opportunistisk kryptering mellom 2
+   mailservere på internett, og er transparent for sluttbrukerne. Per
+   iverksatte utrullingen av RFC 3207 hos en ikke ukjent stor norsk
+   ISP med hovedkontor på Fornebu for ca 10 år siden. Våren
+   presenterte han og en kollega resultatene fra en sjekk av rundt
+   400K domener og deres støtte for standarden. Våren 2014 spanderte
+   Per brus og pizza på en Osloborger, og fikk på den måten utviklet
+   websiden https://starttls.info/
+
+   Per vil presentere resultatene som de har oppnådd på bare få
+   måneder med denne tjenesten, og videre hva vi alle kan gjøre for å
+   bedre sikkerhet & personvern globalt for fremtiden.
+
+   Per Thorsheim, passordgærning, grunnlegger av PasswordsCon.org og
+   idealist. Sikkerhetsrådgiver på dagtid.
+   Twitter: thorsheim
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Stedet er om ikke annet annonseres spesifikt et egnet
+lokale i Bergen Offentlige Bibliotek. Foreløpig møteplan for de neste
+12 månedene ser slik ut (tema for møtene annonseres etterhvert):
+
+November  Torsdag 27. november 2014 kl 19
+Januar    Torsdag 29. januar 2015 kl 19
+Februar   Torsdag 28. februar 2015 kl 19
+Mars	  Torsdag 26 mars 2015 kl 19
+April	  Torsdag 30 april 2015 kl 19
+Mai	  Torsdag 28 mai 2015 kl 19
+August	  Torsdag 27. August 2015 kl 19
+September Torsdag 24. september 2015 kl 19
+Oktober   Torsdag 29. oktober 2015 kl 19
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://is.gd/eyWlN>
+

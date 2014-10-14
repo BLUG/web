@@ -1,0 +1,56 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 25. august kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+"Åpen programvare og Linux i Bergen kommune"
+
+         Ole-Bjørn Tuftedal, teknologisjef i Bergen kommune (BK), vil
+         presentere status, erfaringer og planer for bruk av Linux og
+         åpen programvare i kommunen.
+ 
+	 Med utgangspunkt i BKs IT-strategi fra år 2000, et
+	 bystyrevedtak om at alle framtidige programvareanskaffelser
+	 må inkludere vurdering av åpen programvare, og en gammel
+	 infrastruktur med sterkt behov for fornying, startet kommunen
+	 et arbeid som bl. a. har munnet ut i Linux som ny strategisk
+	 plattform. Foredraget vil presentere strategiske, økonomiske
+	 og tekniske vurderinger som ligger til grunn for valget,
+	 erfaringer fra pågående prosjekt (nytt undervisningsnett og
+	 serverkonsolidering) og tanker om framtidige prosjekt knyttet
+	 til klientutstyret/arbeidsflaten.
+
+	 Kommunens arbeid har fått stor og positiv oppmerksomhet fra
+	 mange hold, både i inn- og utland.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er første BLUG-møte i høst. Foreløpig møteplan for høsten ser
+slik ut:
+
+Torsdag 29. september: Per Torsheim om sikkerhet
+Søndag 16. oktober: Installfest!
+Torsdag 27. oktober: Tema blir annonsert
+Torsdag 24. november: Tema blir annonsert
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

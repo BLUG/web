@@ -1,0 +1,50 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 26. mai kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+"Workshop: Fri programvare for frivillige organisasjoner"
+
+	Bjørn Tore Sund - kjent for BLUGere som sysadmin på Matematisk
+	institutt og vertskap for møter og installfester, er blant
+	annet med å arrangere SciFi-kongressen Worldcon 2005.  Bjørn
+	Tore innleder til workshop ved å fortelle om erfaringene med
+	bruken av fri programvare til slike ting som en svært
+	distribuert, verdensomspennende organisasjon trenger for å
+	fungere.  
+
+	Ta med eget hode med dine erfaringer og gjør dette til en god
+	workshop!
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er siste BLUG-møte i vårsesongen. Foreløpig møteplan for høsten
+ser slik ut:
+
+Torsdag 25. august: Tema blir annonsert
+Torsdag 29. september: Tema blir annonsert
+En gang i oktober: Installfest!
+Torsdag 27. oktober: Tema blir annonsert
+Torsdag 24. november: Tema blir annonsert
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

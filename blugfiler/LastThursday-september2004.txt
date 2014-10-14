@@ -1,0 +1,38 @@
+Vi trodde alle hadde fått dosen sin med Stallman-foredraget i regi av
+EFN, men etter utallige oppfordringer blir det likevel et "Last
+Thursday"- møte i regi av Bergen (BSD and) Linux User Group i september:
+
+   Torsdag 30. september 2004, kl 19.00
+   Auditorium PI, Autogården (Matematisk Institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt møtested! ***
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Kompilering, konfigurering og så videre - spesielt om Linux-kjerner.
+
+   Både teori og praksis. Hvis du tar med maskinen din, *kan* det være
+   du kan få hjelp på stedet. Bærbare er greiest (lettest), og det vi
+   ikke rekker på torsdag, kan gjerne tas opp via listen eller på 
+   installfesten. 
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+    MERK:  Inngangsdøren til Autogården er låst når møtet starter.  Vi 
+    vil holde et øye med døren fram til 19:00, men kan ikke love at du 
+    oppnår kontakt og slipper inn hvis du kommer senere enn det.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

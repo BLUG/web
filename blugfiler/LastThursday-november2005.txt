@@ -1,0 +1,57 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 24. november
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+"Dante, en open-source SOCKS-proxy", ved Karl-André Skevik
+
+	  Dante er en open source-implementasjon av SOCKS-standarden.
+	  Dante fungerer som en generell proxy for TCP- og UDP-
+	  kommunikasjon, som gjør det mulig å separere det interne
+	  nettverket fra det eksterne.  Dante ble utviklet ved og
+	  vedlikeholdes av Inferno Nettverk A/S.  Presentasjonen vil
+	  inkludere informasjon om SOCKS-standarden generelt, Dantes
+	  historie, og gi noen eksempler på hvordan programvaren kan
+	  brukes.
+
+	  Karl-André Skevik er utdannet ved Universitetet i Oslo. Han
+	  har jobbet med drift og programmering, inkludert Dante-
+	  prosjektet, primært med fokus på portabilitet og testing.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er siste BLUG-møte i høst.  Foreløpig møteplan for våren 2006 
+ser slik ut:
+
+Torsdag 26. januar 2006:  Sikkerhet i praksis, v/Per Thorsheim
+Torsdag 23. februar 2006: Tema blir annonsert
+En søndag i mars 2006:    Install-workshop
+Torsdag 30. mars 2006:    Tema blir annonsert
+Torsdag 27. april 2006:   Tema blir annonsert
+Torsdag 18. mai 2006:     Tema blir annonsert
+Torsdag 29. juni 2006:	  Tema blir annonsert
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Vil du henge opp plakat med innkallingen på skole, arbeidsplass, kafe
+eller annet?  Hent PDF-format på http://www.blug.linux.no/plakat.pdf
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

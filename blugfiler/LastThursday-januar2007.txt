@@ -1,0 +1,70 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 25. januar 2007  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+Managing large scale development with free tools 
+				 - Edward Welbourne, Opera Software
+
+  On large projects, getting make to track dependencies correctly
+  involves more complications than the manual anticipates.  I'll begin
+  by describing the layers of complexity and showing how to overcome
+  each of them, in turn.  If time permits, I'll then digress wildly to
+  look at: a debugging technique for memory abuse, using a modified
+  malloc; and some of the more perverse things one can do to RCS.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det første BLUG-møtet i vår.  Foreløpig møteplan for våren
+2007 ser slik ut:
+
+Februar
+	Lørdag 3. februar - Asterisk workshop - 10.00 og utover. 
+	Avholdes i Voop sine lokaler. Begrenset plass.
+
+	Torsdag 22. februar 2007 kl 19
+	Auditorium PI: Linux i ødemarken, ved Alexander Hoogerhuis
+
+Mars
+	En søndag i mars: install-workshop
+
+	Torsdag 29. mars 2007 kl 19
+	Auditorium PI: Subversion, ved Christer Solskogen
+
+April
+	Torsdag 26. april 2007 kl 19
+	Auditorium PI: Emne blir annonsert senere
+
+Mai
+	Torsdag 31. mai 2007 kl 19
+	Auditorium PI: Frie programmer for frie kart, 
+	ved Petter Reinholdtsen
+
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se http://www.friprog.no/!
+
+Spørsmål kan rettes til avsender, mailto:peter@bsdly.net eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på http://blug.linux.no/mailinglists.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

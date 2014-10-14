@@ -1,0 +1,51 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 28. August 2014 kl 19
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1],
+
+   med temaet
+
+   Distribusjon av programvare med Yum og RPM
+
+   Ved Gisle Sælensminde og Bård Aase
+
+    RPM og Yum er et pakkesystem som brukes av flere GNU/Linux-distribusjoner.
+    Pakkesystemer håndterer avhengigheter mellom programmer og biblioteker
+    og skal gjøre installasjon av programvare så smertefritt som mulig.
+
+    Gisle Sælensminde og Bård Aase jobber i et team i Vizrt som har
+    tatt et større system fra manuell installasjon til installasjon
+    ved hjelp av RPM og Yum. De vil fortelle om hva som fordret denne
+    endringen, om sine erfaringen i overgangen og om resultatet. De
+    vil gå igjennom hvordan Vizrt bygger RPM-pakker og organiserer
+    sine Yum-arkiver.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Stedet er om ikke annet annonseres spesifikt et egnet
+lokale i Bergen Offentlige Bibliotek. Foreløpig møteplan for de neste
+12 månedene ser slik ut (tema for møtene annonseres etterhvert):
+
+September Torsdag 25. september 2014 kl 19
+Oktober   Torsdag 30. oktober 2014 kl 19
+November  Torsdag 27. november 2014 kl 19
+Januar    Torsdag 29. januar 2015 kl 19
+Februar   Torsdag 28. februar 2015 kl 19
+Mars	  Torsdag 26 mars 2015 kl 19
+April	  Torsdag 30 april 2015 kl 19
+Mai	  Torsdag 28 mai 2015 kl 19
+August	  Torsdag 27. August 2015 kl 19
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://is.gd/eyWlN>
+

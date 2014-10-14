@@ -1,0 +1,41 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 24. april 2003, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+~  Introduksjon til PHP med vekt på en praktisk applikasjon,
+   ved Jakob Breivik Grimstveit og Ove Ruben R Olsen
+
+   Implementasjon av enkelt BLOG-verktøy i PHP samt en syntaksgjennomgang
+   av PHP som språk. BLOG-applikasjonen vil benytte MySQL som database i 
+   bunnen og det vil dermed også bli en rask introduksjon til databaser 
+   og SQL. Dersom tiden tillater blir det også en kort gjennomgang av 
+   de moduler som finnes i PHP.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det fjerde plenumsmøtet i vårsemesteret 2003. Foreløpig 
+møteplan for resten av vårsemesteret ser slik ut:
+
+   Torsdag 22. mai 2003, kl 19.00 - tema ikke fastsatt
+
+Vi satser på at vi fortseter med møter *siste torsdag i måneden* også
+til høsten. Dersom ikke annet blir annonsert, vil møtene fortsatt
+foregå på høyteknologisenteret.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.

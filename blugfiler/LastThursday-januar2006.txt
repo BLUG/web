@@ -1,0 +1,71 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 26. januar 2006, kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+"Sikkerhet i praksis", ved Per Thorsheim
+
+	  Sikkerhet kan være så mangt - noe som vil bli forsøkt belyst
+	  i denne presentasjonen. Første del vil dreie seg om passord,
+	  med ulike farer innen valg, bruk, endring og administrasjon
+	  av passord på tvers av systemer, brukere, avdelinger og
+	  geografiske lokasjoner. Andre del vil dreie seg om sikring,
+	  gradering og kryptering av virksomhetskritisk-, person- og
+	  børssensitive opplysninger, med henblikk til både §POL og
+	  sikkerhetsloven med mer. Det legges opp til en uformell tone
+	  med praktiske eksempler og spørsmål/svar underveis.
+
+	  Per Thorsheim jobber som sikkerhetskoordinator i EDB IT
+	  Drift i Bergen. Jobben innebærer ansvar for sikkerhetsarbeid
+	  som spenner fra planlegging av patching og herding via
+	  kontraktsarbeid og SLA-avtaler til håndtering av hendelser
+	  og granskning av sikkerhetsbrudd. Han er sertifisert CISA,
+	  CISM (www.isaca.org) og CISSP (www.isc2.org), og er også
+	  medlem av ASIS (www.asis.no). Han holder ofte foredrag og
+	  har skrevet flere artikler om sikkerhet. Mer info og diverse
+	  filer med mer finnes på www.thorsheim.net.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er første BLUG-møte i vår.  Foreløpig møteplan for resten av
+våren 2006 ser slik ut:
+
+Februar
+	Torsdag 23. februar kl 19, Aud PI
+	Harald Nordgaard-Hansen, "Embedded Linux in telecom products - an example"
+
+Mars
+	Søndag 19. mars, Installworkshop
+
+	Torsdag 30. mars kl 19, Aud PI
+	Alexander Hoogerhius, "OpenSource i ødemarken"
+
+April
+	Torsdag 27. april Aud PI
+	Tollef Fog Heen om Ubuntu
+
+Mai
+	Torsdag 1. juni kl 19, Aud PI
+	Lars Magne Ingebrigtsen om gmane
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

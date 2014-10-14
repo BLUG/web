@@ -1,0 +1,60 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 28. september 2006  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+Holde bandittene ute - eller håndtering av misligheter, ved Per Thorsheim
+
+      Hva må til for å finne - og håndtere - skurkene?  Per Thorsheim
+      fra EDB Business Partner returnerer til BLUG for å gi en delvis
+      oppfølging fra forrige foredrag.  Denne gangen er
+      sikkerhetsfokuset på hvordan man skal kunne finne og håndtere
+      misligheter, være det seg fra eksterne eller interne personer.
+      Tekniske muligheter kombinert med lovpålagte krav fra
+      Datatilsynet og anbefalinger til intern policy vil bli
+      gjennomgått.  Som kamerat Lenin sa: "Tillit er bra. Kontroll er
+      bedre."
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det andre BLUG-møtet i høst.  Foreløpig møteplan for resten
+av høsten 2006 ser slik ut:
+
+Oktober
+	Søndag 15. oktober: Install-workshop
+
+	Torsdag 26. oktober 2006 kl 19
+	Auditorium PI: Fra videokamera til DVD og Internet, kun med Linux, 
+		       ved Herman Robak
+
+November
+	Torsdag 30. november 2006 kl 19
+	Auditorium PI: Emne blir annonsert senere
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/.
+
+Vil du støtte BLUG økonomisk?  Se http://www.friprog.no/, eller få
+sjefen din til å se!
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på http://blug.linux.no/mailinglists.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

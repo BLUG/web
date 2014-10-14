@@ -1,0 +1,71 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 22. februar 2007  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+Linux i villmarken, ved Alexander Hoogerhuis
+
+  Over noen år har Alexander hjulpet sykehuset Haydom Lutheran
+  Hospital i Tanzania med å bygge opp IT-infrastruktur med Linux i 
+  de fleste funksjoner, med brannmurer, VPN, og andre IT-behov for 
+  sykehus med tilhørende administrasjon, pluss tilreisende og 
+  fastboende, med satelitt-forbindelse til omverdenen.
+
+  Prosjektet startet med en forespørsel om å "dra til Afrika og skru
+  sammen noen servere" for en bekjent, og har etterhvert gitt en
+  omfattende katalog over utfordringer ved å bygge opp infrastruktur i
+  et fattig land og hvordan fri programvare bidrar til bedre
+  løsninger.
+
+  Alexander Hoogerhuis jobber med oppbygging og drift av infrastruktur
+  for store og større bedrifter, og har blant annet lang erfaring fra
+  Telenor.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det andre BLUG-møtet i vår.  Foreløpig møteplan for resten av
+våren 2007 ser slik ut:
+
+Mars
+	En søndag i mars: install-workshop
+
+	Torsdag 29. mars 2007 kl 19
+	Auditorium PI: Subversion, ved Christer Solskogen
+
+April
+	Torsdag 26. april 2007 kl 19
+	Auditorium PI: Varnish, ved Poul-Henning Kamp
+
+Mai
+	Torsdag 31. mai 2007 kl 19
+	Auditorium PI: Frie programmer for frie kart, 
+	ved Petter Reinholdtsen
+
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se http://www.friprogforeningen.no/!
+
+Spørsmål kan rettes til avsender, mailto:peter@bsdly.net eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på http://blug.linux.no/mailinglists.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

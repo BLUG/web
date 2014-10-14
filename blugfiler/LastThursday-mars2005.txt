@@ -1,0 +1,44 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 31. mars 2005, kl 19.00
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt møtested fra høsten 2004! ***
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Programmering i Common Lisp, ved Johan Ur Riise
+
+   Common Lisp er et elegant og praktisk system for å programmere
+   datamaskiner. Språket har lange røtter, og mange avanserte
+   programmeringsmetoder ble først brukt i Lisp før de ble
+   innført i andre språk.
+
+   Enhver programmerer kan ha nytte av å kjenne til Common Lisp.
+   Dette foredraget gir et innblikk.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Foreløpig møteplan for resten av våren ser slik ut:
+
+Torsdag 28. april: FEIDE, ved Ingrid Melve, UNINETT
+Torsdag 26. mai: Tema blir annonsert
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

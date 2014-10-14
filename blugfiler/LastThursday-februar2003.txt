@@ -1,0 +1,48 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 27. februar 2003, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+~ Linux som kjerne i blandete nettverk. Moderert paneldebatt. 
+
+  Linux kan fungere som 'limet' i nettverk der mange forskjellige
+  typer systemer trenger å fungere sammen. Har du lurt på hva som kan
+  gjøres og hvordan? Vi stiller med et panel av Linux-veteraner som
+  diskuterer integrasjon og svarer på spørsmål. Panelet har lyst til å
+  gi gode svar, og derfor er det lurt om du sender inn spørsmål til
+  panelet på forhånd via adressen mailto:panel@blug.linux.no.
+
+  En liste over spørsmål som er kommet inn, kan du finne på
+  http://www.blug.linux.no/februar-2003/.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det andre plenumsmøtet i vårsemesteret 2003. Det blir møter
+*siste torsdag i måneden*. Foreløpig møteplan for resten av
+vårsemesteret ser slik ut:
+
+   Torsdag 27. mars 2003, kl 19.00 - tema ikke fastsatt
+   Torsdag 24. april 2003, kl 19.00 - tema ikke fastsatt
+   Torsdag 22. mai 2003, kl 19.00 - tema ikke fastsatt
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. 
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+

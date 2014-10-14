@@ -1,0 +1,38 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 25. november 2004, kl 19.00
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt møtested fra høsten 2004! ***
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Nytt epostsystem ved UiO, ved Haakon Eriksen, USIT, UiO.
+
+   I løpet av det siste året har UiO skiftet ut de sentrale delene av
+   epostsystemet sitt, siden det gamle systemet hadde problemer med å
+   holde følge med trafikkmengde og krav til funksjonalitet. Haakon
+   beskriver den nye løsningen som ble valgt, hvilke problemer den
+   skulle løse, og hvilke problemer som har oppstått i forbindelse med
+   overgang til nytt system.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

@@ -1,0 +1,55 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 30. august 2012 kl 19
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1], 
+
+   med temaet
+
+   "linux og sånn", ved Cecilie Wian
+
+   Linux, Ubuntu, Suse, Red hat. Open source og fri programvare? Hva
+   er det? Hvordan henger det sammen? Hva er community, og hva gjør
+   det?
+
+   Cecilie Wian gir en nybegynnerinnføring i verdenen rundt linux, hva
+   består den av, hvordan fungerer den, hvem er det som lager dette.
+
+   Foredraget er rettet mot for nysgjerrige og nybegynnere, men også
+   erfarne brukere som vil vite mer om organiseringen og omgivelsene
+   rundt Fri og Open programvare vil ha glede av dette. Dette er
+   anledningen til å bli bedre kjent med verden rundt Linux.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Stedet er om ikke annet annonseres spesifikt et egnet
+lokale i Bergen Offentlige Bibliotek. Foreløpig møteplan for de neste
+12 månedene ser slik ut (tema for møtene annonseres etterhvert):
+
+September Torsdag 27. september 2012 kl 19
+Oktober	  Torsdag 25. oktober 2012 kl 19
+November  Torsdag 29. november 2012 kl 19
+Januar	  Torsdag 31. januar 2013 kl 19
+Februar	  Torsdag 28. februar 2013 kl 19
+Mars	  Torsdag 28. mars 2013 kl 19
+April	  Torsdag 25. april 2013 kl 19	  
+Mai	  Torsdag 30. mai 2013 kl 19
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://is.gd/eyWlN> 
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>

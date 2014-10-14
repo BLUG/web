@@ -1,0 +1,56 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 24. februar 2005, kl 19.00
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt møtested fra høsten 2004! ***
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Bli kjent med PostgreSQL!, ved Oddbjørn Steffensen
+
+   PostgreSQL har de siste årene befestet sin posisjon som en av de
+   ledende fritt tilgjengelige databasemotorene gjennom sin
+   kompromissløse robusthet, rike funksjonalitet, og brede SQL-støtte.
+
+   Presentasjonen går gjennom de viktigste egenskapene i PostgreSQL,
+   bakenforliggende arkitektur, grunnleggende administrasjon,
+   integrasjon med ulike programmeringsspråk, ulike former for
+   tredjepartsverktøy samt tips om hvordan man kan komme i gang på
+   egen hånd.
+
+   Versjon 8.0 ble lansert 19. januar i år, og inneholder mange større
+   og mindre forbedringer, blant annet savepoints, tablespaces,
+   point-in-time recovery samt offisiell støtte for Windows.
+   PostgreSQL ble valgt som beste databaseserver i Linux Journal sin
+   "Editors Choice"-kåring både i 2003 og 2004.
+
+   Oddbjørn Steffensen jobber til daglig i EDB IT Drift.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Foreløpig møteplan for resten av våren ser slik ut:
+
+Søndag 13. mars: Installfest
+Torsdag 31. mars: Programmering i Common Lisp, ved Johan Ur Riise
+Torsdag 28. april: Tema ikke fastsatt
+Torsdag 26. mai: Tema ikke fastsatt
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

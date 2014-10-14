@@ -1,0 +1,61 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 30. august 2007  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+Grunnleggende nettverk, og hvordan sette opp med Linux, ved Vegard Engen
+
+    Vegard gir en innføring i nettverk, med tilstrekkelig teori til
+    at du forstår hva du skal gjøre når du finner en HOWTO som påstår
+    å løse et nettverksproblem du har.  Foredraget har også betydelige
+    praktiske innslag, med kommandoer og fremgangsmåter du kan studere
+    videre på ditt eget Linux-system.
+
+    Vegard Engen jobber som sjefskonsulent i EDB med Unix-systemer som
+    hovedfelt, og har jobbet med Unix, Linux og nettverk siden
+    studiene på tidlig 90-tall.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det første BLUG-møtet i høst.  Foreløpig møteplan for resten
+av høsten 2007 ser slik ut:
+
+September
+	Torsdag 27. september 2007 kl 19
+	Auditorium PI: Bård Aase om Bacula
+
+Oktober
+	Torsdag 25. oktober 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+November
+	Torsdag 29. november 2007 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://www.blug.linux.no/redirect/audpi> 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>
+

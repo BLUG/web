@@ -1,0 +1,48 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 28. august 2003, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Åpne standarder og åpen kildekode: viktig for de fattige, truende 
+   for de rike, lekegrind for de glupe, ved Rune Nilsen
+
+   Rune Nilsen er prorektor og professor i medisin ved Universitetet i
+   Bergen.  Han ledet arbeidet med en IT-strategi ved UiB som understreker
+   åpne standarder og åpen kildekode som veien å gå for framtiden.  En
+   viktig motivator for dette arbeidet er internasjonalt samarbeid, spesielt
+   med forskere i utviklingsland, der tilgangen til dyr, kommersiell
+   programvare ofte kan være veldig dårlig.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det første plenumsmøtet i høstsemesteret 2003. Foreløpig 
+møteplan for resten av høstsemesteret ser slik ut:
+
+Installfest er tentativt planlagt til midt i september
+
+Torsdag 25. september: David Karlsen om clustring 
+
+Torsdag 30. oktober: Kjetil Sørtun om JBoss
+
+Torsdag 27. november: Vegard Engen om utskriftssystemet CUPS 
+
+Vi fortsetter altså med møter *siste torsdag i måneden*. Dersom ikke
+annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.

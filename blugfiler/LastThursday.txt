@@ -1,0 +1,66 @@
+Bergen Linux User Group fortsetter sin møteserie "Last Thursday" for
+Linux-brukere og andre interesserte
+
+   Torsdag 29. november 2001, kl 19.00
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Programmet for møtet er:   
+
+~ CVS ga meg et bedre liv - Øyvind A. Holm fra Bergensavisens
+  web-redaksjon gir oss en gjennomgang av bruk av 
+  versjonskontrollsystemet CVS, med eksempler fra praksis i 
+  et hektisk miljø.
+  
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette blir det siste møtet i høstsemesteret. Vi legger opp til at det 
+også i til våren blir møter *siste torsdag i måneden*. 
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. Blant de mulige emnene som har vært nevnt i
+elektroniske og andre diskusjoner er:
+
+* linux og trådløse nettverk, radiolink osv
+
+* linux og docbook ({SG,X}ML) i virkelige programvareprosjekter
+
+* samarbeid om å skaffe fastlinje til interesserte medlemmer og dele
+  på utgiftene.
+
+* installfest (post-install-fest (ikke nødvendigvis nachspiel)).
+
+* linux på lomme-pc-er, anskaffe samme type utstyr for å dele
+  erfaringer.
+
+Vi benytter oss igjen av muligheten til å minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig på
+url:http://www.blug.linux.no.  Der finner du løpende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Hjelp til bruk av blug-listen fås ved å sende melding til
+mailto:majordomo@blug.linux.no med teksten
+
+help
+
+som meldingstekst (ikke emne), påmelding ved melding til
+mailto:majordomo@blug.linux.no med
+
+subscribe
+
+som eneste tekst.
+

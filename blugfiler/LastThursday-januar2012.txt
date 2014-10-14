@@ -1,0 +1,77 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 26. januar 2012 kl 19
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1], 
+
+   med temaet
+
+   "git ga meg et bedre liv", ved Øyvind Holm
+
+   Foredraget handler om utvikling med moderne versjonskontroll generelt og
+   git spesielt. Vi ser litt på historien om hvordan git ble til, dykker 
+   ned i konseptet distribuert versjonskontroll og hvordan det påvirker 
+   utviklerens hverdag, og viser git i praksis, live.
+
+Øyvind Holm er mangeårig BLUG-medlem og utvikler med lang fartstid, blant
+annet fra A-pressen. Han har sterke meninger om mye, og håper på å bli utfordret
+på noen av dem fra salen.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Foreløpig møteplan for de neste 12 månedene ser slik ut:
+
+Februar
+	Torsdag 23. februar 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+Mars
+	Torsdag 29. mars 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+April
+	Torsdag 26. april 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+Mai
+	Torsdag 31. mai 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+August
+	Torsdag 30. august 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+September
+	Torsdag 27. september 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+Oktober
+	Torsdag 25. oktober 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+November
+	Torsdag 29. november 2012 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+Januar
+	Torsdag 31. januar 2013 kl 19
+	Bergen offentlige bibliotek: Tema annonseres senere
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://is.gd/eyWlN> 
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>

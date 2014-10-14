@@ -1,0 +1,53 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 26. august 2004, kl 19.00
+   Auditorium PI, Autogården (Matematisk Institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt møtested! ***
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Linux i et Windows-dominert nettverk - 
+   ved Bjørn Tore Sund, Overingeniør IT ved UiB
+
+   I den store stygge virkeligheten administreres datamaskiner med
+   Active Directory og hjemmekatalogen din heter H: - Bjørn Tore Sund
+   har sammen med andre UiB-ingeniører arbeidet med å få
+   linux-klienter til å fungere i denne verden og presenterer noen
+   løsninger som virker. For enkeltmaskinen, og i stor skala hvis man
+   får lov å sette opp fildeling via Samba på en
+   linux-maskin. Nøkkelord er Microsoft Services for Unix, Samba 3.0,
+   Winbind, Active Directory, LDAP og standarder som nesten følges...
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+    MERK:  Inngangsdøren til Autogården er låst når møtet starter.  Vi 
+    vil holde et øye med døren fram til 19:00, men kan ikke love at du 
+    oppnår kontakt og slipper inn hvis du kommer senere enn det.
+
+
+Møteplanen for resten av høsten 2004 (kan endres på kort varsel) ser
+slik ut:
+
+Torsdag 30. september 2004: Johan Riise om lisenser og patentspøkelset
+Torsdag 28. oktober 2004: Tema ikke fastsatt
+en lørdag i november 2004: Installfest
+Torsdag 25. november 2004: Brannmurer på OpenBSD og Linux
+
+Vi fortsetter altså med møter *siste torsdag i måneden*. Dersom ikke
+annet blir annonsert, vil møtene fortsatt foregå i Auditorium PI.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

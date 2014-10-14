@@ -1,0 +1,51 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 27. mai 2004, kl 19.00
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Vevutvikling med åpne standarder - 
+   ved Wilhelm Joys Andersen
+
+   «Konseptet bak verdensveven er prinsippet om universell
+   tilgjengelighet. Hvis du publisererer et dokument på veven, er det
+   viktig at alle kan lese det», sa WWWs oppfinner i 1991. Etter år
+   med nettleserkrig og strevsomme kompatibilitetsproblemer er
+   verdensveven endelig på vei mot å oppfylle dette idealet. Wilhelm
+   Joys Andersen forteller om åpne vevstandarder, hvorfor de er
+   viktige, og hvordan du bruker dem.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Den foreløpige planen for høsten 2004 er:
+
+Torsdag 26. august 2004: Bjørn Tore Sund om Linux i Windows-nett
+Torsdag 30. september 2004: Johan Riise om lisenser og patentspøkelset
+Torsdag 28. oktober 2004: Tema ikke fastsatt
+en lørdag i november 2004: Installfest
+Torsdag 25. november 2004: Brannmurer på OpenBSD og Linux
+
+Vi fortsetter altså med møter *siste torsdag i måneden*. Dersom ikke
+annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/hoyteknologisenteret 
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.

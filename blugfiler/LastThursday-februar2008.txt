@@ -1,0 +1,95 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 28. februar 2008  kl 19,
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1], 
+
+   med temaet 
+
+   Kjernemoduler og kjerneprogrammering, ved Gisle Sælensminde
+
+   Linuxkjernen består av flere milioner linjer kode, med støtte for
+   alle mulige typer eksotisk maskinvare.  For at det skal være mulig å
+   distrubuere en kjerne av rimelig størrelse, kan ikke alt lastes inn
+   i maskinene samtidig, siden det ville brukt urimelig mye minne og
+   CPU.  For å løse dette bruker linuxkjernen moduler.  Kjernemoduler er
+   biter med kode som kan lastes inn i kjernen ved behov og fjernes
+   når det ikke er bruk for dem lenger.  De gjør at ikke alle må
+   kompilere sin egen kjerne.  I tillegg til drivere kan de også brukes
+   til å legge inn ekstra funksjonalitet slik som kryptering,
+   nettverksfiltre og støtte for virtualisering.
+
+   Presentasjonen vil gå gjennom hvordan man bygger en modul, og
+   hvordan den er bygget opp.  Kjernemoduler virker ellers som all
+   annen kode i kjernen, så det vil bli diskutert hva som er spesielt
+   med programmering for linux-kjernen, og hvordan de ulike
+   grensesnittene i kjernen kan brukes til å kommunisere med
+   brukerprosesser.  Eksempler er devicer, nettverksgrensesnitt,
+   filsystemer og nettverksfiltre og mye annet.
+
+   
+Da legger vi som tidligere opp til at den formelle, disiplinerte
+faglige delen av møtet vil være fullført ca kl 21.00, med overgang til
+mer uformelle aktiviteter og langsom forflytting til egnet
+serveringssted (Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det første BLUG-møtet i år.  Foreløpig møteplan for de neste
+12 månedene ser slik ut:
+
+Mars
+	Torsdag 27. mars 2008 kl 19
+	Auditorium PI: Pakkesystemer, ved Christer Solskogen
+
+April
+	Torsdag 24. april 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Mai
+	Torsdag 29. mai 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+August
+	Torsdag 28. august 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+September
+	Torsdag 25. september 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Oktober
+	Torsdag 30. oktober 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+November
+	Torsdag 27. november 2008 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Januar
+	Torsdag 29. januar 2009 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Februar
+	Torsdag 26. februar 2009 kl 19
+	Auditorium PI: Tema annonseres senere
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://www.blug.linux.no/redirect/audpi> 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>
+

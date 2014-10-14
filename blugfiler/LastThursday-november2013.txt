@@ -1,0 +1,66 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 5. desember 2013 kl 19
+   Bergen Offentlige Bibliotek
+   Strømgaten 6, 5015 Bergen[1], 
+
+   med 
+
+   IPv6!, ved Vegard Engen
+
+   IPv6 er neste generasjon IP-protokoll, men desverre drøyer det
+   før vi alle kan ta det i bruk. Eller gjør det det? Vegard vil
+   først holde en liten introduksjon til hva IPv6 er og hva det vil
+   bety for oss Internett-brukere, men vil relativt raskt bevege seg i
+   retning praktisk bruk og konfigurasjon av Ipv6 som skal gjøre deg
+   i stand til å ta ibruk protokollen allerede idag.
+
+   Gitt tid og lyst, vil det bli demonstrert konfigurasjon helt fra de
+   enkle oppsett, til mer avanserte oppsett for de viderekomne. Vi
+   garanterer at det blir noe å lære for alle!
+
+   Foredragsholder Vegard Engen er ansatt i EVRY, hvor han stort sett
+   arbeider med og på Unix og Unix-lignende operativsystemer og
+   tjenester som kjører på dem.  Fortiden som konsulent innen
+   nettverk gjør imidlertid at fristelsen blir for stor til å holde
+   seg unna, noe som resulterer i ett og annet BLUG-foredrag om
+   nettverksrelaterte temaer.
+
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+BLUG har vanligvis møter siste torsdag i hver måned utenom juni, juli
+og desember.  Stedet er om ikke annet annonseres spesifikt et egnet
+lokale i Bergen Offentlige Bibliotek. Foreløpig møteplan for de neste
+12 månedene ser slik ut (tema for møtene annonseres etterhvert):
+
+Januar	  Torsdag 30. januar 2014
+Februar	  Torsdag 27. februar 2014 kl 19
+Mars	  Torsdag 27. mars 2014 kl 19
+April	  Torsdag 24. april 2014 kl 19	  
+Mai	  Torsdag 29. mai 2014 kl 19
+August 	  Torsdag 28. august 2014 kl 19
+September Torsdag 25. september 2014 kl 19
+Oktober	  Torsdag 30. oktober 2014 kl 19
+November  Torsdag 27. november 2014 kl 19
+
+Se også BLUGs hjemmeside, <http://www.blug.linux.no/>.
+
+Vil du støtte BLUG økonomisk?  Eller hva med å få sjefen til å bidra
+til BLUG sitt arbeid? Se <http://www.friprogforeningen.no/>!
+
+Spørsmål kan rettes til avsender, <mailto:peter@bsdly.net> eller til
+blug-listen <mailto:blug@blug.linux.no>.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på <http://blug.linux.no/mailinglists>.
+
+[1] kartreferanse <http://is.gd/eyWlN> 
+
+[2] kartreferanse <http://www.blug.linux.no/redirect/henrik>
+
+
+

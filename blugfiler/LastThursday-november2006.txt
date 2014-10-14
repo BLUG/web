@@ -1,0 +1,71 @@
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday",
+
+   Torsdag 30. november 2006  kl 19
+   Auditorium PI, Autogården (Matematisk institutt), 
+   Johannes Bruns gate 12, Bergen[1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+Motvirke skadevare og spam med frie verktøy - ved Peter N. M. Hansteen
+
+	 Spam og skadevare har vært til stadig irritasjon for
+	 nettverksansvarlige i mange år.  Alt tyder på at volumet av
+	 spam og skadevare på nettet vokser, samtidig som det løpende
+	 utvikles og vedlikeholdes både frie og proprietære verktøy
+	 for å gjøre hverdagen levelig.  
+
+	 Peter tar for seg en del prinsipielle og praktiske sider, med
+	 vekt på praktisk bruk av frie verktøy.
+    
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Henrik[2]) for fagøl og annet sosialt.
+
+    MERK: Inngangsdøren til Autogården låses kl 19. Vi prøver å holde
+    et øye med døren en liten stund etter det, men kan ikke love at du
+    oppnår kontakt og slipper inn hvis du kommer mye senere.
+
+Dette er det siste BLUG-møtet i høst.  Foreløpig møteplan for våren
+2007 ser slik ut:
+
+Januar
+	Torsdag 25. januar 2007 kl 19
+	Auditorium PI: Edward Welbourne fra Opera
+
+Februar
+	Torsdag 22. februar 2007 kl 19
+	Auditorium PI: Linux i ødemarken, ved Alexander Hoogerhius
+
+Mars
+	En søndag i mars: install-workshop
+
+	Torsdag 29. mars 2007 kl 19
+	Auditorium PI: Subversion, ved Christer Solskogen
+
+April
+	Torsdag 26. april 2007 kl 19
+	Auditorium PI: Emne blir annonsert senere
+
+Mai
+	Torsdag 31. mai 2007 kl 19
+	Auditorium PI: Emne blir annonsert senere
+
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no/.
+
+Vil du støtte BLUG økonomisk?  Se http://www.friprog.no/, eller få
+sjefen din til å se!
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Vil du melde deg på eller av blug eller blug-announce? Se
+informasjonen om listene på http://blug.linux.no/mailinglists.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi 
+    Parkering: Plassen foran fysikkbygget (Allégaten 55) kan brukes 
+    på kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/henrik
+

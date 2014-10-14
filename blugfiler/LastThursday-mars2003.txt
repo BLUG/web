@@ -1,0 +1,47 @@
+Bergen (BSD and) Linux User Group i samarbeid med Star Shipping AS[1]
+fortsetter møteserien "Last Thursday"
+
+   Torsdag 27. mars 2003, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+~ PHP, ved Stig S. Bakken.
+
+  Det ytterst fleksible scriptspråket PHP er et av de mest anvendte og
+  anvendelige verktøyene for utvikling av dynamisk genererte web-sider
+  og web-baserte applikasjoner.  Stig har vært en sentral PHP-utvikler
+  siden 1996. Han presenterer språket og hvordan det kan brukes med
+  noen velvalgte eksempler på anvendelser.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det tredje plenumsmøtet i vårsemesteret 2003. Det blir møter
+*siste torsdag i måneden*. Foreløpig møteplan for resten av
+vårsemesteret ser slik ut:
+
+   Torsdag 24. april 2003, kl 19.00 - tema ikke fastsatt
+   Torsdag 22. mai 2003, kl 19.00 - tema ikke fastsatt
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. 
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] Dette møtet blir gjennomført med støtte fra Star Shipping A/S.
+    Star Shippings web finner du på http://www.starshipping.com/
+
+
