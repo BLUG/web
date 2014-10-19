@@ -9,7 +9,9 @@ RewriteRule ^rfc1149/vegard_bilder/index.html rfc1149/vegard_bilder [R,L]
 RewriteRule ^wiki/Skikk_og_bruk /skikk-og-bruk/ [R,L]
 RewriteRule ^cgi-bin/mailman/listinfo/blug http://mailman.uib.no/listinfo/blug [L]
 RewriteRule ^events/all-watched-over-by-machines-of-loving-grace/ /blug-18-oktober-2012-all-watched-over-by-machines-of-loving-grace/ [R,L]
-RewriteRule ^events/software-patents-whos-behind-the-curtain/ /blug-oktober-2013-software-patents/
+RewriteRule ^wiki/18._Oktober_2012_-_All_watched_over_by_machines_of_loving_grace /blug-18-oktober-2012-all-watched-over-by-machines-of-loving-grace/ [R,L]
+RewriteRule ^events/software-patents-whos-behind-the-curtain/ /blug-oktober-2013-software-patents/ [R,L]
+RewriteRule ^w(iki|)/Hovedside / [R,L]
 
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
