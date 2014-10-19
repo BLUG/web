@@ -7,6 +7,7 @@ RewriteRule ^mailinglists[/]? http://mailman.uib.no/listinfo/blug [L]
 RewriteRule ^rfc1149/writeup.html /rfc1149/writeup [R,L]
 RewriteRule ^rfc1149/vegard_bilder/index.html rfc1149/vegard_bilder [R,L]
 RewriteRule ^wiki/Skikk_og_bruk /skikk-og-bruk/ [R,L]
+RewriteRule ^cgi-bin/mailman/listinfo/blug http://mailman.uib.no/listinfo/blug [L]
 
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
