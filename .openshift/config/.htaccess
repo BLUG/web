@@ -12,6 +12,9 @@ RewriteRule ^events/all-watched-over-by-machines-of-loving-grace/ /blug-18-oktob
 RewriteRule ^wiki/18._Oktober_2012_-_All_watched_over_by_machines_of_loving_grace /blug-18-oktober-2012-all-watched-over-by-machines-of-loving-grace/ [R,L]
 RewriteRule ^events/software-patents-whos-behind-the-curtain/ /blug-oktober-2013-software-patents/ [R,L]
 RewriteRule ^w(iki|)/Hovedside / [R,L]
+RewriteRule ^rfc1149/pinglogg.txt /rfc1149/pinglogg/ [R,L]
+RewriteRule ^rfc1149/index.html /rfc1149/ [R,L]
+RewriteRule ^rfc1149/(.*).html /rfc1149/$1/ [R,L]
 
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
